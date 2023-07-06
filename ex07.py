@@ -1,3 +1,5 @@
+#analisando frases
+
 frase = input('Digite uma frase : ').upper().strip
 
 contador = frase.count('A')

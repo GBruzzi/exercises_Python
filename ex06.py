@@ -1,3 +1,5 @@
+#analisando nomes
+
 nome = input('Digite seu nome completo : ').strip()
 
 masc = nome.upper()
